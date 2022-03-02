@@ -7,7 +7,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/valeryia-slepianok-91628220b/
 - **GitHub:** v-slepianok
 
-===
+
 
 ## About me
 
@@ -18,5 +18,5 @@ besides there’s a huge amount of free high quality resources for self-educatio
 
 My core strengths are in problem solving and fast learning.
 
-===
+
 
