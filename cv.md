@@ -2,7 +2,7 @@
 
 ## Junior Frontend Developer
 
-<img src="/img/photo.jpeg" alt="me" width="200"/>
+<img src="img/photo.jpeg" alt="me" width="200"/>
 
 
 ##  My Contact Info
