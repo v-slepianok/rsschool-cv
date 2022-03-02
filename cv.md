@@ -2,7 +2,9 @@
 
 ## Junior Frontend Developer
 
-![me](/img/photo.jpeg "my photo")
+<img src="/img/photo.jpeg" alt="me" width="200"/>
+
+
 ##  My Contact Info
 - **Phone:** +357 99 826341 
 - **Telegram:** @Valerak8
