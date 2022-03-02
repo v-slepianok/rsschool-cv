@@ -9,8 +9,8 @@
 - **Phone:** +357 99 826341 
 - **Telegram:** @Valerak8
 - **E-mail:** direnok.vd@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/valeryia-slepianok-91628220b/](valeryia-slepianok-91628220b)
-- **GitHub:** [https://github.com/v-slepianok](v-slepianok)
+- **LinkedIn:** [valeryia-slepianok-91628220b](https://www.linkedin.com/in/valeryia-slepianok-91628220b/)
+- **GitHub:** [v-slepianok](https://github.com/v-slepianok)
 
 ## About me
 I’m currently working several small web projects for small business and sometimes take a small projects on upwork
