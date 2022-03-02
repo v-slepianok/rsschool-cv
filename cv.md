@@ -2,7 +2,7 @@
 
 ## Junior Frontend Developer
 
-![me](/img/photo.jpeg "Me")
+![me](img/photo.jpeg "Me")
 
 ##  My Contact Info
 - **Phone:** +357 99 826341 
