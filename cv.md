@@ -25,10 +25,12 @@ My core strengths are in problem solving and fast learning.
 * **HTML**
 * **CSS** (Framework Bootstrap, Preprocessor SCSS, SAAS, BEM methodology)
 * **JavaScript** (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM, JSON)
-* **React JS**(basic)
+* **React JS**
 * **Git, GitHub**
 * **Gulp, Webpack**
 * **Figma** 
+* **Next.js** 
+* **TypeScript**
 
 ## Code Example
 ```
@@ -49,11 +51,12 @@ function absentVowel(x){
 * Udemy
     * HTML/CSS
     * javaScript
-    * React 
+    * React
 
 ## Experience
 * Small project on Upwork
 * Landing page for small business(Dance school)
+* Let's dev company
 
 ## Language 
 * Russian - native
